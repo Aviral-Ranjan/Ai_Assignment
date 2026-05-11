@@ -1,0 +1,72 @@
+[
+  {
+    "id": "R001",
+    "name": "Arjun Sharma",
+    "position": "TCS Intern",
+    "university": "BITS Pilani CSE",
+    "skills": "Python, MachineLearning, SQL, pandas, numpy, Deep-learning"
+  },
+  {
+    "id": "R002",
+    "name": "Priya Nair",
+    "position": "Freelance Web Developer",
+    "university": "VIT IT",
+    "skills": "JavaScript, React, Node.JS, MongoDB, REST api, HTML/CSS"
+  },
+  {
+    "id": "R003",
+    "name": "Rahul Gupta",
+    "position": "Infosys SDE Intern",
+    "university": "IIT Delhi",
+    "skills": "Java, Spring Boot, MySQL, Microservices, Docker, kubernetes"
+  },
+  {
+    "id": "R004",
+    "name": "Sneha Patel",
+    "position": "IISc Research Assistant",
+    "university": "IIIT Hyderabad AI",
+    "skills": "Python, TensorFlow, Keras, NLP, BERT, data-viz, matplotlib"
+  },
+  {
+    "id": "R005",
+    "name": "Vikram Singh",
+    "position": "Google SWE Intern",
+    "university": "IIT Bombay",
+    "skills": "C++, Algorithms, Data Structure, competitive programming, python"
+  },
+  {
+    "id": "R006",
+    "name": "Ananya Krishnan",
+    "position": "Full Stack Developer",
+    "university": "NIT Trichy",
+    "skills": "javascript, vue.js, python, flask, PostgreSQL, AWS, CI/CD"
+  },
+  {
+    "id": "R007",
+    "name": "Karan Mehta",
+    "position": "Data Analyst",
+    "university": "Delhi University",
+    "skills": "Python, Sklearn, XGboost, feature engineering, SQL, tableau"
+  },
+  {
+    "id": "R008",
+    "name": "Deepika Rao",
+    "position": "Samsung Android Intern",
+    "university": "NSIT",
+    "skills": "Java, Android, Kotlin, Firebase, REST, UI/UX, figma"
+  },
+  {
+    "id": "R009",
+    "name": "Aditya Kumar",
+    "position": "Frontend SDE",
+    "university": "IIIT Bangalore",
+    "skills": "Reactjs, TypeScript, GraphQL, redux, tailwind, nodejs, jest"
+  },
+  {
+    "id": "R010",
+    "name": "Meera Iyer",
+    "position": "Data Science Intern",
+    "university": "Wipro",
+    "skills": "python, R, statistics, ML, regression, clustering, Power-BI"
+  }
+]

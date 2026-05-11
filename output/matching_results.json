@@ -1,0 +1,115 @@
+[
+  {
+    "job_id": "JD001",
+    "company": "Kakao (Seoul)",
+    "position": "ML Engineer",
+    "top_3_matches": [
+      {
+        "resume_id": "R001",
+        "name": "Arjun Sharma",
+        "university": "BITS Pilani CSE",
+        "similarity": 0.4232962424235761,
+        "matched_skills": [
+          "deep learning",
+          "python",
+          "sql"
+        ]
+      },
+      {
+        "resume_id": "R005",
+        "name": "Vikram Singh",
+        "university": "IIT Bombay",
+        "similarity": 0.408248290463863,
+        "matched_skills": [
+          "python"
+        ]
+      },
+      {
+        "resume_id": "R010",
+        "name": "Meera Iyer",
+        "university": "Wipro",
+        "similarity": 0.34839798347837875,
+        "matched_skills": [
+          "machine learning",
+          "python"
+        ]
+      }
+    ]
+  },
+  {
+    "job_id": "JD002",
+    "company": "Naver (Seongnam)",
+    "position": "Backend Engineer",
+    "top_3_matches": [
+      {
+        "resume_id": "R003",
+        "name": "Rahul Gupta",
+        "university": "IIT Delhi",
+        "similarity": 0.9077739319961429,
+        "matched_skills": [
+          "docker",
+          "java",
+          "kubernetes",
+          "mysql",
+          "spring boot"
+        ]
+      },
+      {
+        "resume_id": "R006",
+        "name": "Ananya Krishnan",
+        "university": "NIT Trichy",
+        "similarity": 0.17611898171496393,
+        "matched_skills": [
+          "postgresql"
+        ]
+      },
+      {
+        "resume_id": "R008",
+        "name": "Deepika Rao",
+        "university": "NSIT",
+        "similarity": 0.17291948075894414,
+        "matched_skills": [
+          "java"
+        ]
+      }
+    ]
+  },
+  {
+    "job_id": "JD003",
+    "company": "Line (Seoul)",
+    "position": "Frontend Engineer",
+    "top_3_matches": [
+      {
+        "resume_id": "R009",
+        "name": "Aditya Kumar",
+        "university": "IIIT Bangalore",
+        "similarity": 0.7006864931271327,
+        "matched_skills": [
+          "javascript",
+          "react"
+        ]
+      },
+      {
+        "resume_id": "R002",
+        "name": "Priya Nair",
+        "university": "VIT IT",
+        "similarity": 0.6606858890792434,
+        "matched_skills": [
+          "javascript",
+          "react",
+          "rest"
+        ]
+      },
+      {
+        "resume_id": "R006",
+        "name": "Ananya Krishnan",
+        "university": "NIT Trichy",
+        "similarity": 0.33850435265692974,
+        "matched_skills": [
+          "javascript",
+          "vue"
+        ]
+      }
+    ]
+  }
+]

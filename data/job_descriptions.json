@@ -1,0 +1,20 @@
+[
+  {
+    "id": "JD001",
+    "company": "Kakao (Seoul)",
+    "position": "ML Engineer",
+    "skills": "Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, Data Visualization"
+  },
+  {
+    "id": "JD002",
+    "company": "Naver (Seongnam)",
+    "position": "Backend Engineer",
+    "skills": "Java, Spring Boot, MySQL, PostgreSQL, Microservices, Docker, Kubernetes"
+  },
+  {
+    "id": "JD003",
+    "company": "Line (Seoul)",
+    "position": "Frontend Engineer",
+    "skills": "JavaScript, React, Vue, TypeScript, REST API, HTML/CSS"
+  }
+]
